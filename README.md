@@ -13,5 +13,5 @@
 <hr/>
 
 * Github 소스코드 : https://github.com/swpark30/FinalProject
-* TEAM 노션 : https://slowlyseo.notion.site/27699392ac7b4cfb8b8514697e1a3056
+* TEAM 노션 : https://slowlyseo.notion.site/8a95b1700f67465f87caac8e4ec4b1a8
 * TEAM 키득키득 : 팀장 채동혁 / 팀원 박상완, 서지현, 신예린 (총 4인)
