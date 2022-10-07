@@ -13,5 +13,5 @@
 <hr/>
 
 * Github 소스코드 : https://github.com/slowlyseo/FinalProject
-* TEAM 노션 : https://slowlyseo.notion.site/8a95b1700f67465f87caac8e4ec4b1a8
+* TEAM 노션 : https://slowlyseo.notion.site/93fde1ae3a9e4fbfbe6bab3a5bbec5ba
 * TEAM 키득키득 : 팀장 채동혁 / 팀원 박상완, 서지현, 신예린 (총 4인)
